@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>790636412913-tijit277pvjvpebvhnddm4bdsd0o1o06.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790636412913-tijit277pvjvpebvhnddm4bdsd0o1o06</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>790636412913-1kqv5t9hiojg0a9h7hqf7pj3kjob12ok.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRsavvUkgOh0ga9gS7G6t-VsiRdde_ygM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790636412913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.company.insperis</string>
+	<key>PROJECT_ID</key>
+	<string>serene-baby</string>
+	<key>STORAGE_BUCKET</key>
+	<string>serene-baby.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790636412913:ios:4c3d2f4778e2e6f4ba4e50</string>
+	<key>DATABASE_URL</key>
+	<string>https://serene-baby-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

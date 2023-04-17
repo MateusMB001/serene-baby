@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790636412913",
+    "firebase_url": "https://serene-baby-default-rtdb.firebaseio.com",
+    "project_id": "serene-baby",
+    "storage_bucket": "serene-baby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790636412913:android:a3dd8affa962333aba4e50",
+        "android_client_info": {
+          "package_name": "com.company.insperis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790636412913-9es9ejo7ef49i4mo7lvg2ff9ue67oam4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.insperis",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "790636412913-0m2l9crvpq16oons0tfu8lh93ki2epit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOTlkDmLKkbW8j-kmC3mX-7MTJbNoQCv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790636412913-0m2l9crvpq16oons0tfu8lh93ki2epit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790636412913-31irgajj3975cn7677nf2c2qnugu22kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insperis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
